@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("登录");
 
         System.out.println("注册");
+        System.out.println("修改");
     }
 }
